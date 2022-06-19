@@ -78,5 +78,5 @@ public class Jogador {
         }else
             JOptionPane.showMessageDialog(null, "Jogador não sofreu Dano", "Jogo", JOptionPane.INFORMATION_MESSAGE, null);
     }
-
+    //
 }
