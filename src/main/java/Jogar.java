@@ -41,6 +41,6 @@ public class Jogar
             JOptionPane.showMessageDialog(null, "Parabéns Jogador um você Ganhou", "Jogo", JOptionPane.INFORMATION_MESSAGE, null);
         }else
             JOptionPane.showMessageDialog(null, "Parabéns Jogador Dois você Ganhou", "Jogo", JOptionPane.INFORMATION_MESSAGE, null);
-
+//
     }
 }
